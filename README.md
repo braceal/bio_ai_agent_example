@@ -102,6 +102,8 @@ The workflow generates several output files:
 - `RAxML_bestTree.raxml_tree` - RAxML phylogeny
 - `iqtree_out.treefile` - IQ-TREE phylogeny
 
+To view the trees, you can use the browser tool: https://itol.embl.de/upload.cgi
+
 ## Customization
 
 ### Modify Species List
